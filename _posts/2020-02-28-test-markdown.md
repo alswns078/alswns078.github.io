@@ -1,30 +1,33 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: <MY Information>
+subtitle: 5 details infor.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Introduction & Skills & Education & Achievement and Certification & Contact
 
-**Here is some bold text**
+## Introduction
 
-## Here is a secondary heading
+* Hello, I'm  **Min-joon choi**, the owner of this GitHub page! I will be a great programmer! Please remember my name..*
+  
+**Grade** : Sungkyunkwan University(Suwon), 3rd year student of College of Software
+  
+**Military** : i was discharged from the army in 2022
 
-Here's a useless table:
+## Skills
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Programming Languages** : * C , C++ , Python, JAVA , Kotlin *
 
-
-How about a yummy crepe?
+**Framework** : Android Studio
+ 
+**Languages** : Korean, English
+  
+  
+  <!-- How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
@@ -75,4 +78,4 @@ You can add notification, warning and error boxes like this:
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box. -->

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: MY Information
-subtitle: 5 details infor.
+subtitle: 4 details infor.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-Introduction & Skills & Education & Achievement and Certification & Contact
+Introduction & Skills & Education & Achievement and Certification
 
 ## Introduction
 
@@ -36,12 +36,18 @@ Introduction & Skills & Education & Achievement and Certification & Contact
 _College of Software_
    * 3rd grade student in Software
    * GPA is 3.75 / 4.5
-   * Industry-University Cooperation Project( with **SEWORKS**)
 
 _CourseWork_
    * Algorithms, Data Structure, System Programming, Computer Architecture, Automata, Digital Logic Circuit, Discrete mathematics, JAVA programming, Operating System, Mobile app programming(Android studio with Kotlin),  Programming Language, Open Source Software
  
+## Achievements and Certifications
 
+_Major_
+  * Industry-University Cooperation Project( with **SEWORKS**)
+  * China Training Program in Beijing
+
+_Other_
+  * Weight Training **SBD**(_Bench_press + Squat + Deadlift_) = **420**!!
 
 
 

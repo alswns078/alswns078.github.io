@@ -4,7 +4,7 @@ title: MY Information
 subtitle: 4 details infor.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [contact point ⤵️]
 comments: true
 ---
 
@@ -48,6 +48,4 @@ _Major_
 
 _Other_
   * Weight Training **SBD**(_Bench_press + Squat + Deadlift_) = **420**!!
-
-contact point is 
 

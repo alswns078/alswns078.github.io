@@ -32,11 +32,13 @@ Introduction & Skills & Education & Achievement and Certification & Contact
 ## Education
 
 **Sungkyunkwan University(Suwon) 3rd year student**
+
 _College of Software_
    * 3rd grade student in Software
    * GPA is 3.75 / 4.5
-   * 산학협력프로젝트 진행( with **SEWORKS**)
-_CourseWrok_
+   * Industry-University Cooperation Project( with **SEWORKS**)
+
+_CourseWork_
    * Algorithms, Data Structure, System Programming, Computer Architecture, Automata, Digital Logic Circuit, Discrete mathematics, JAVA programming, Operating System, Mobile app programming(Android studio with Kotlin),  Programming Language, Open Source Software
  
 

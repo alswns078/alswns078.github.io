@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <MY Information>
+title: MY Information
 subtitle: 5 details infor.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -12,7 +12,7 @@ Introduction & Skills & Education & Achievement and Certification & Contact
 
 ## Introduction
 
-* Hello, I'm  **Min-joon choi**, the owner of this GitHub page! I will be a great programmer! Please remember my name..*
+* Hello, I'm  **Min-jun choi**, the owner of this GitHub page! I will be a great programmer! Please remember my name..*
   
 **Grade** : Sungkyunkwan University(Suwon), 3rd year student of College of Software
   
@@ -26,56 +26,6 @@ Introduction & Skills & Education & Achievement and Certification & Contact
  
 **Languages** : Korean, English
   
-  
-  <!-- How about a yummy crepe?
+**boj** : [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswns078)](https://solved.ac/alswns078)
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box. -->

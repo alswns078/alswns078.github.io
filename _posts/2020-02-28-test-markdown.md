@@ -2,8 +2,6 @@
 layout: post
 title: MY Information
 subtitle: 4 details infor.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [contact point ⤵️]
 comments: true
 ---

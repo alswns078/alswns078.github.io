@@ -3,7 +3,6 @@ layout: post
 title: MY Information
 subtitle: 4 details infor.
 tags: [contact point ⤵️]
-comments: true
 ---
 
 Introduction & Skills & Education & Achievement and Certification
